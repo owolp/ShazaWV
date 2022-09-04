@@ -1,3 +1,5 @@
+![](./icon/shazawv.png)
+
 # ShazaWV
 
 Android WebView wrapper around shazam.com
